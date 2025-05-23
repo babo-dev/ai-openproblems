@@ -24,3 +24,4 @@ if __name__ == "__main__":
 
     batches = batch_iterator(X, y, batch_size)
     print(batches)
+
